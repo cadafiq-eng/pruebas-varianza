@@ -1,1 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Imágenes generadas
+*.png
+*.jpg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
