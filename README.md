@@ -1,5 +1,12 @@
 # 📊 Pruebas de Hipótesis para Varianzas
 
+> **🌐 Versión web disponible (recomendada)**
+>
+> Esta herramienta ya existe como app web: funciona en cualquier navegador y se instala en el celular, sin Python ni servidor.
+> 👉 **[Muestreo e Inferencia — HumAIno®](https://cadafiq-eng.github.io/muestreo-inferencia/)** · pestaña *Pruebas de Varianza*
+>
+> Este repositorio se conserva como la versión original en Python/Streamlit y como referencia del código. La app web se distribuye bajo [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es); el código de este repositorio conserva su licencia original.
+
 Implementación en Python de pruebas estadísticas para análisis de varianzas utilizando distribuciones Chi-cuadrada (χ²) y F, con prueba de normalidad incluida.
 
 ## 🎯 Características
